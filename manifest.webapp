@@ -1,0 +1,22 @@
+{
+    "name": "Evernote",
+    "launch_path": "/evernote/index.html",
+    "description": "Bring your life's work together in one digital workspace.",
+    "icons": {
+        "60": "/evernote/img/icon-60.png",
+        "128": "/evernote/img/icon-128.png"
+    },
+    "developer": {
+        "name": "Evernote Corporation",
+        "url": "https://evernote.com"
+    },
+    "default_locale": "en",
+    "permissions": {
+        "browser": {
+            "description": "Allows us to have additional control over how our app is rendered."
+        },
+        "geolocation": {
+            "description": "Position the user without prompting."
+        }
+    }
+}
